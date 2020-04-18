@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Code Simplicity
+- Designing Data-Intensive Applications
+- Mere Christianity

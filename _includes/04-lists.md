@@ -1,0 +1,3 @@
+- Code Simplicity
+- Designing Data-Intensive Applications
+- Mere Christianity

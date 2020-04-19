@@ -1,5 +1,5 @@
 | Command | Explanation|
-| --------| -----------|
+| -------------------| --------------|
 | **run [args]** | Start your program with **[args]** |
 | **breakpoint set --name [file:]function** | Set a break point at [file:]function. You can also use **b**. |
 | **thread backtrace** | Dump a backtrace of the current calling stack. Shorthand is **bt**. |

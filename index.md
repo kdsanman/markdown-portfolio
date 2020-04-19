@@ -22,4 +22,4 @@ layout: default
 
 <br>
 
-{% include 05-faq.md %}
+{% include 06-faq.md %}

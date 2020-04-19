@@ -22,7 +22,7 @@ layout: default
 
 <br>
 
-{% include 06-faq.md %}
+{% include 01-section-cheatsheet-name.md %}
 
 <br>
 

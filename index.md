@@ -21,5 +21,5 @@ layout: default
 {% include 05-emphasis.md %}
 
 <br>
-
+# FAQ
 {% include 06-faq.md %}

@@ -22,6 +22,10 @@ layout: default
 
 <br>
 
+{% include 02-section-question1.md %}
+
+<br>
+
 {% include 01-section-cheatsheet-name.md %}
 
 <br>

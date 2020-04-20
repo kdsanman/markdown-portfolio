@@ -2,32 +2,48 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+{% include 001-name.md %}
 
 <br>
 
-{% include 02-image.md %}
+{% include 002-image.md %}
 
 <br>
 
-{% include 03-links.md %}
+{% include 003-links.md %}
 
 <br>
 
-{% include 04-lists.md %}
+{% include 004-lists.md %}
 
 <br>
 
-{% include 05-emphasis.md %}
+{% include 005-emphasis.md %}
 
 <br>
 
-{% include 02-section-question1.md %}
+{% include 006-section-question1.md %}
 
 <br>
 
-{% include 01-section-cheatsheet-name.md %}
+{% include 006-section-question1-response.md %}
 
 <br>
 
-{% include 07-table.md %}
+{% include 007-section-cheatsheet-header.md %}
+
+<br>
+
+{% include 008-section-cheatsheet-table.md %}
+
+<br>
+
+{% include 009-section-tutorial-header.md %}
+
+<br>
+
+{% include 009-section-tutorial-summary.md %}
+
+<br>
+
+{% include 009-section-tutorial-code.md %}

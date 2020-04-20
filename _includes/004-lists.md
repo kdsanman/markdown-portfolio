@@ -1,0 +1,4 @@
+- _The Martian_ by Andy Weir
+- _The Dark Net: Inside the Digital Underworld_ by Jamie Bartlett
+- _Code Simplicity: The Fundamentals of Software_ by Max Kanat-Alexander
+- _Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems_ by Martin Kleppmann

@@ -34,7 +34,7 @@ layout: default
 
 <br>
 
-{% include 008-section-cheatsheet-table.md %}
+{% include 007-section-cheatsheet-table.md %}
 
 <br>
 

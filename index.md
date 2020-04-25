@@ -26,15 +26,3 @@ layout: default
 {% include 009-section-tutorial-header.md %}
 {% include 009-section-tutorial-summary.md %}
 {% include 009-section-tutorial-codeblock-1.md %}
-
-<br>
-
-{% include 010-section-exit-shell-header.md %}
-{% include 010-section-exit-shell-summary.md %}
-{% include 010-section-exit-shell-codeblock.md %}
-
-<br>
-
-{% include 011-section-running-file-header.md %}
-{% include 011-section-running-file-summary.md %}
-{% include 011-section-running-file-codeblock.md %}

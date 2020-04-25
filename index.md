@@ -38,5 +38,3 @@ layout: default
 {% include 011-section-running-file-header.md %}
 {% include 011-section-running-file-summary.md %}
 {% include 011-section-running-file-codeblock.md %}
-
-<br>

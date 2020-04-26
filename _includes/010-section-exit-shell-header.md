@@ -1,1 +1,1 @@
-#### Pro tip: How to exit this shell?
+#### How to exit the shell

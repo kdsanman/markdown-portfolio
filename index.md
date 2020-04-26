@@ -44,3 +44,8 @@ layout: default
 {% include 012-section-breakpoint-header.md %}
 {% include 012-section-breakpoint-summary.md %}
 {% include 012-section-breakpoint-codeblock.md %}
+
+<br>
+
+{% include 012-section-list-header.md %}
+{% include 012-section-list-summary.md %}

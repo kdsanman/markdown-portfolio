@@ -1,1 +1,1 @@
-To run the file, use the command `run` in the shell. If your program has no errors, you should something similar to this output:
+To run the file, use the command `run` in the shell. If your program has no errors, you should something similar to the following output. If your program had an error, it would stop where the error was and then you can use the command `bt` and it would show you the stack trace.
